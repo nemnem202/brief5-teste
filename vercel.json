@@ -1,4 +1,0 @@
-{
-  "buildCommand": "npx tsc",
-  "outputDirectory": "public"
-}
